@@ -1,3 +1,3 @@
 # emil2602.github.io
 
-[Относительная ссылка на документ](../EmilMukhtarovCv.pdf)
+[CV](https://github.com/emil2602/emil2602.github.io/blob/master/EmilMuhtarovCV.pdf)
